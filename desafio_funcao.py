@@ -1,8 +1,8 @@
 def menu():
     menu = """
-    [d] Depositar
-    [s] Sacar
-    [e] Extrato
+     [d] Depositar
+     [s] Sacar
+     [e] Extrato
     [nu] Novo usuário
     [nc] Nova conta
     [lu] Listar Usuários
