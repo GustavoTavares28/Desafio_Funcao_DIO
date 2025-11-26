@@ -1,4 +1,4 @@
-# DIO | Desafio - Otimizando o Sistma Bancário com Funções Python
+# DIO | Desafio - Otimizando o Sistema Bancário com Funções Python
 
 ##  Descrição
 
